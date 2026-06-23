@@ -17,7 +17,7 @@ A simple Machine Learning project that predicts house prices using Linear Regres
 3. Train-Test Split
 4. Linear Regression Model Training
 5. Model Evaluation
-6. House Price Prediction
+6. Prediction on New House Data
 
 ## Results
 
